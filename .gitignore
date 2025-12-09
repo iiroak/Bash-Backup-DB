@@ -1,0 +1,10 @@
+# Ignorar archivo con credenciales reales
+RealBackup.sh
+
+# Logs
+*.log
+
+# Backups locales (si están en este directorio)
+*.sql
+*.sql.gz
+backups/
