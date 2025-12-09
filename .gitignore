@@ -1,6 +1,3 @@
-# Ignorar archivo con credenciales reales
-RealBackup.sh
-
 # Logs
 *.log
 
